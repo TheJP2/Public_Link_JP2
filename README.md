@@ -11,3 +11,5 @@ Puedes acceder a la interfaz del reproductor multimedia directamente a través d
 🔗 **[Abrir Reproductor Multimedia (DRM Player/ngrok)](https://surviving-revision-supply.ngrok-free.dev/DRM-Player.html)**
 
 🔗 **[Abrir Reproductor Multimedia (reproductores)](https://192.168.20.34:8001/reproductor.html)**
+
+🔗 **[Abrir Tester Stream MPD](https://tes.x10.mx/tes.php)**
